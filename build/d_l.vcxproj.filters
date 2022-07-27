@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\user\teachers_app\discere_linguis_front\discere_linguis_front\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\teachers_app\discere_linguis_front\discere_linguis_front\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9BB4BA0E-EBB3-3BA0-90D8-0B8701E98ADE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

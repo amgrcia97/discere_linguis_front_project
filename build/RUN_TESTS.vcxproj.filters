@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\teachers_app\discere_linguis_front\discere_linguis_front\build\CMakeFiles\d4006c589c4d2b47ee4873246da865e5\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9A5480AA-130D-36BB-9BB8-E3EB7D97ECB5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

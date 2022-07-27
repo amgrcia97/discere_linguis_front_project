@@ -1,0 +1,9 @@
+C:/Users/user/teachers_app/discere_linguis_front/discere_linguis_front/build/CMakeFiles/Experimental.dir
+C:/Users/user/teachers_app/discere_linguis_front/discere_linguis_front/build/CMakeFiles/Nightly.dir
+C:/Users/user/teachers_app/discere_linguis_front/discere_linguis_front/build/CMakeFiles/Continuous.dir
+C:/Users/user/teachers_app/discere_linguis_front/discere_linguis_front/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/user/teachers_app/discere_linguis_front/discere_linguis_front/build/CMakeFiles/d_l.dir
+C:/Users/user/teachers_app/discere_linguis_front/discere_linguis_front/build/CMakeFiles/PACKAGE.dir
+C:/Users/user/teachers_app/discere_linguis_front/discere_linguis_front/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/user/teachers_app/discere_linguis_front/discere_linguis_front/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/teachers_app/discere_linguis_front/discere_linguis_front/build/CMakeFiles/ZERO_CHECK.dir
